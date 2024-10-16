@@ -40,4 +40,4 @@ Feel free to separate concerns (e.g. http requests, DOM parsing) and structure i
  - As the scraper will be performing a lot of HTTP requests and you'll most likely end up with a loop awaiting the response from each individual page, you may want to break the loop after the first iteration. The test will still pass as long as the length of the array is correct.
  - Last name isn't as obvious as it seems with special characters, don't get too hung up on it.
 
-Good luck!
+Good luck!!!!
